@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DoorsScene.unity
     guid: 02592b8678721a044a1d767ef4e58340
+  - enabled: 1
+    path: Assets/Scenes/AKScene.unity
+    guid: aa6308a88b3f5984286d8111c75d4a5f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 74760704cf5e7104697f80e35dc68297,
       type: 2}
